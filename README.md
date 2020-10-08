@@ -1,3 +1,3 @@
-# CSS3-Glowing-Gradient-Loader-Ring-Animation-Effects
+### Glowing gradient loader ring animation effects
  
-[Watch here ;)](https://oleg-kolosov.github.io/CSS3-Glowing-Gradient-Loader-Ring-Animation-Effects/)
+[Watch](https://oleg-kolosov.github.io/CSS3-Glowing-Gradient-Loader-Ring-Animation-Effects/)
